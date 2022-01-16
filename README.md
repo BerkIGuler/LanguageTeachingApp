@@ -1,5 +1,5 @@
 # Language Teaching App 
-**Database Design Course Project**
+**Bilkent University Database Design Course (CS281) Project**
 
 *The objective of this project is to design a database to provide the below functionality as well as writing the code for the graphical user interface that lets the user to interact with it.*
 

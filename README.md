@@ -1,11 +1,16 @@
-# EEE102-OV7670
-Digital Design Course Project
+# Language Teaching App 
+**Database Design Course Project**
 
-The objective of this project is to design a logic circuit that can control a camera, can save data on the memory, and can transmit this to the outside world. Following the transmission of the image data, OCR and TTS are performed on the image.
+*The objective of this project is to design a database to provide the below functionality as well as writing the code for the graphical user interface that lets the user to interact with it.*
 
-Peripherals:
-* OV-7670 Image Sensor
-* Xilinx Basys3 FPGA Board
 
-Project Link:
-*https://www.youtube.com/watch?v=cxDje9tf7-4
+* Log in as a student, list all courses, and filter by teacher and subject. Search for a subject by entering a text for the subject of the course. Register to a course. See the price of the course. Pay for the course. Participate in quizzes. List their previous quizzes grades. View the discount offers provided to them by managers.
+
+* Log in as a teacher, enter the course information for the courses they are going to teach. View the information of the students registered in coursers. Add a new quiz for the students to participate in. Provide grades for individual students after quizzes
+
+* Log in as a manager, view all the courses and their information (which teacher teaches what course and how many students he has in a class). Assign other managers as evaluators to sessions. Based on the evaluation, provide a bonus to the teacher. If the manager is an evaluator, add rating to sessions. Provide discount offers to students. 
+
+
+
+
+

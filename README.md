@@ -11,6 +11,9 @@
 * Log in as a manager, view all the courses and their information (which teacher teaches what course and how many students he has in a class). Assign other managers as evaluators to sessions. Based on the evaluation, provide a bonus to the teacher. If the manager is an evaluator, add rating to sessions. Provide discount offers to students. 
 
 
+*Project Link*: https://www.youtube.com/watch?v=8pp8Zr3ntcY
+
+
 
 
 
